@@ -1,18 +1,18 @@
 var CONFIG = {
   // 网页 title
-  title: 'Book-Cli',
+  title: 'School-IT Doc',
   
   // 网页 keywords
-  keywords: 'book, book-cli, doc, example',
+  keywords: 'School-IT, 汕头侨中School IT社, 汕头侨中, IT社',
 
   // 网页 description
-  description: 'Init html book with markdown files.',
+  description: '广东汕头华侨中学，School IT社的专属文档中心。',
 
   // 链接是否打开新的窗口
   openNewWindow: true,
 
   // 页面右上角的 github 链接
-  github: 'https://github.com/vvpvvp/book-cli',
+  github: 'https://github.com/School-IT/School-IT.github.io',
 
   // 左侧目录的md文件
   summaryMd: 'SUMMARY.md',
