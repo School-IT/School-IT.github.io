@@ -13,3 +13,5 @@
     * [文章目录](backend/README.md)
 * 游戏开发
     * [文章目录](game/README.md)
+* 活动
+    * [1024节](activity/1024.md)
