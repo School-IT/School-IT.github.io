@@ -1,5 +1,7 @@
 # 汕头侨中School IT 文档中心  
 
+[![School IT Doc](https://img.shields.io/badge/SchooIT-Doc-blue)](https://school-it.github.io/)
+
 ## 本地启动  
 
 1. 先下载项目到本地
